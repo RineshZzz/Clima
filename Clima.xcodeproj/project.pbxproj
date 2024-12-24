@@ -43,7 +43,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		095D8CC42D1AC3D7009AF9F3 /* Model */ = {
+		095D8CC52D1AC42E009AF9F3 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				09B2A70C2D07EA29009E853E /* WeatherManager.swift */,
@@ -74,7 +74,7 @@
 			children = (
 				ADAA27B0231BBFAF00365194 /* AppDelegate.swift */,
 				ADAA27B2231BBFAF00365194 /* SceneDelegate.swift */,
-				095D8CC42D1AC3D7009AF9F3 /* Model */,
+				095D8CC52D1AC42E009AF9F3 /* Model */,
 				ADAA27C9231BC3F200365194 /* View */,
 				ADAA27C8231BC3E500365194 /* Controller */,
 				ADAA27B9231BBFB300365194 /* Assets.xcassets */,
